@@ -60,7 +60,7 @@ users.needObject=Phải là một Object
 
 handleCommand.userBanned=Hiện tại bạn đang bị cấm sử dụng bot!\n%1\n%2
 handleCommand.threadBanned=Hiện tại nhóm của bạn đang bị cấm sử dụng bot!\n%1\n%2
-handleCommand.commandNotExist=Trợ giúp nhanh:\nGõ "/search" để cập nhật bộ truyện mới nhất.\nGõ "/search <Tên truyện>" để bắt đầu tìm truyện.
+handleCommand.commandNotExist=Trợ giúp nhanh:\n"/nettruyen <Tên truyện>": Tìm truyện trên nền tảng nettruyen.\n"/truyenqq <Tên truyện>" - Tìm truyện trên nền tảng truyenqq.
 handleCommand.commandThreadBanned=Nhóm bạn đã bị cấm sử dụng lệnh "%1"
 handleCommand.commandUserBanned=Bạn đã bị cấm sử dụng lệnh "%1"
 handleCommand.threadNotAllowNSFW=Nhóm của bạn không được phép sử dụng những lệnh NSFW

@@ -29,13 +29,13 @@ var axios = require("axios"),
     fs = require("fs-extra"),
     baseURL = 'https://thieutrungkien.dev/';
 module.exports.config = {
-    name: "search",
+    name: "truyenqq",
     version: "1.0.0",
     hasPermssion: 0,
     credits: "Thiệu Trung Kiên",
     description: "Xem truyện online",
     commandCategory: "Truyện",
-    usages: "search [tên truyện]",
+    usages: "truyenqq [tên truyện]",
     cooldowns: 0
 };
 module.exports.onLoad = _asyncToGenerator(function* () {
