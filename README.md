@@ -108,11 +108,9 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
     apt update && apt upgrade -y && apt install proot-distro -y && proot-distro install ubuntu && proot-distro login ubuntu
     ```
 sau khi hiện dòng *root@localhost:~#* thì hãy nhập câu lệnh sau (cũng áp dụng cho người dùng app UserLAnd sau khi đăng nhập vào Ubuntu hoặc Debian):
-
     ```sh
     apt update && apt upgrade -y && apt install python3 python-is-python3 make gcc g++ git nano wget curl sudo -y && curl -sL https://deb.nodesource.com/setup_16.x | sudo bash - && apt install nodejs -y
     ```
-
 3. Đợi mọi package cài đặt thành công là có thể sử dụng
 
 4. Lấy appstate
