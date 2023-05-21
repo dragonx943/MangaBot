@@ -1,5 +1,5 @@
 {
-	"name": "NettruyenBot",
+	"name": "MangaBot",
 	"version": "3.0.1",
 	"description": "A simple Manga Network Messenger Bot create by Team MiraiV2 and remaster by Dragonx943.",
 	"main": "mirai.js",
