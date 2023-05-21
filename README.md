@@ -4,7 +4,7 @@
         <img src="https://i.imgur.com/sxW5AWa.png" alt="Logo">
     </a>
 
-<h3 align="center">NettruyenBot - MiraiBot Remaster</h3>
+<h3 align="center">MangaBot - MiraiBot Remaster</h3>
 
 <p align="center">
     Bot Facebook Messenger đơn giản được làm bởi CatalizCS và SpermLord.
@@ -74,7 +74,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
     1. chuột phải ở folder cần cài đặt source code nhấn vào git bash
     2. nhập
     ```sh
-    git clone https://github.com/dragonx943/NettruyenBot.git
+    git clone https://github.com/dragonx943/MangaBot.git
     ``` 
 
 4. Cài đặt các package cần thiết
@@ -124,7 +124,7 @@ sau khi hiện dòng *root@localhost:~#* thì hãy nhập câu lệnh sau (cũng
       ```
       2. Để vận hành bot, bạn chỉ cần nhập
       ```sh
-      cd ~/NettruyenBot && npm start
+      cd ~/MangaBot && npm start
       ```
 
 #### Linux/ubuntu
