@@ -83,6 +83,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
     ```sh
     npm i
     ```
+- P/s: gõ thêm câu lệnh *npm i got@11.8.3* để Bot có thể hoạt động lệnh nhận ảnh.
 
 5. Chỉnh sửa file config
     1. Mở file config.json thông qua notepad++ hoặc sublime text 3 đã cài đặt ở trên
@@ -112,7 +113,10 @@ sau khi hiện dòng *root@localhost:~#* thì hãy nhập câu lệnh sau (cũng
     apt update && apt upgrade -y && apt install python3 python-is-python3 make gcc g++ git nano wget curl sudo -y && curl -sL https://deb.nodesource.com/setup_16.x | sudo bash - && apt install nodejs -y
     ```
 
-3. Đợi mọi package cài đặt thành công là có thể sử dụng
+3. Tải dữ liệu từ github và cài đặt Bot trên hệ thống
+    ```sh
+    cd ~/ && git clone https://github.com/dragonx943/MangaBot.git && cd MangaBot && npm i && npm i got@11.8.3
+    ```    
 
 4. Lấy appstate
     - Bạn có thể sử dụng fbstate của c3c bot, nhưng cần đổi tên lại thành fbstate.json
